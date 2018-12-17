@@ -18,14 +18,16 @@ If any of you are unfamiliar with Python, you will need to research it. I would 
 
 Neural Network Libraries
 
-OpenCV
+- OpenCV
 
-Flask
+- Flask
 
-Python IDEs
+- Python IDEs
 
 Data Set: Possibly http://yann.lecun.com/exdb/mnist/
 
-Interesting Article: https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc
+Two Demos
+------------
+1. App Demo: A python based demo built on Kivy’s gui language. It accepts handwritten letters and digits from the user and displays the 1st and 2nd  best predictions of the number/ letter.
 
-https://docs.google.com/presentation/d/1O9QyyTbGEbt8u0c7_06Z5jCoITfqRhHnnTO7AtxNaX8/edit?usp=sharing
+2. Desktop Demo: An Android app (built using android studio) that uses trained model to make predictions on handwritten digits on-screen. In addition, it recognizes handwritten characters in real-time using camera.
