@@ -28,4 +28,4 @@ Data Set: Possibly http://yann.lecun.com/exdb/mnist/
 
 Interesting Article: https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc
 
-I have a pretty good GPU that I am willing to offer depending on how we decide to go about this project.
+https://docs.google.com/presentation/d/1O9QyyTbGEbt8u0c7_06Z5jCoITfqRhHnnTO7AtxNaX8/edit?usp=sharing
